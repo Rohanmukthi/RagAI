@@ -1,0 +1,19 @@
+[
+  {
+    "id": "doc_c3652e74fbc4",
+    "document_name": "Official Test Regulations 2026",
+    "document_type": "Academic Regulations",
+    "file_name": "official_test.pdf",
+    "stored_filename": "doc_c3652e74fbc4_official_test.pdf",
+    "storage_path": "/app/applet/backend/uploads/doc_c3652e74fbc4_official_test.pdf",
+    "file_size_bytes": 230,
+    "sha256": "dede435de8d9050128892e8e490c5e73674908d9e3d06a94ba4fc2ad044d9f89",
+    "total_pages": 1,
+    "total_chunks": 0,
+    "source": "Office of Academic Affairs",
+    "status": "pending",
+    "uploaded_at": "2026-10-04T14:04:20.932066Z",
+    "processed_at": null,
+    "sections_detected": []
+  }
+]

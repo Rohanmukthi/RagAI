@@ -1,0 +1,6 @@
+{
+  "name": "University Document Knowledge Base",
+  "description": "Enterprise-grade knowledge base and ingestion pipeline for official university regulations, policies, and academic documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
